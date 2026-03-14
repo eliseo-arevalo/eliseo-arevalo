@@ -1,5 +1,3 @@
-# .NET and JavaScript Full Stack Developer
+# Software Engineer
 
-### **Hey**, want to check out my **[CV/Resume](./EliseoArevalo_CV.pdf)?**
-
-
+Software Engineer currently learning Golang and building ChivoMap and Oclazi.
